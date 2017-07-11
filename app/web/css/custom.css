@@ -1,0 +1,3 @@
+.category-menu li.active > a {
+    background-color: lightgreen;
+}
